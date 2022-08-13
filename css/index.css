@@ -1,3 +1,36 @@
 .red {
     color: red;
 }
+
+body {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.navigation {
+    border: 0px;
+    padding: 0px;
+
+}
+
+#header {
+    background-color: yellow;
+    margin: 0px;
+    padding: 0%;
+    border: 0px;
+    text-align: center;
+}
+
+#header h1 {
+    font-size: 50px;
+    margin: 0px;
+    padding: 0%;
+    border: 0px;
+}
+
+#header .descpription1 {
+    margin: 0px;
+    padding: 0%;
+    border: 0px;
+}

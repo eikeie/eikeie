@@ -44,19 +44,20 @@ body {
 .welcome {
     margin-left: 3%;
     margin-right: 3%;
-    margin-top: 1%;
-    margin-bottom: 1%;
+    margin-top: 3%;
+    margin-bottom: 3%;
 }
 
 .messe {
-    padding: 1%;
+    padding: 20px;
+    margin-bottom: 8px;
     border: 10px solid red;
     background-color: yellow;
 }
 
 .welcome_messe {
     text-align: center;
-    font-size: 50px;
+    font-size: 55px;
 }
 
 .descpription2 {
